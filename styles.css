@@ -1,0 +1,52 @@
+.container {
+	background-color: #e5e5e5;
+	color: #0c3152
+}
+
+body {
+	background-color: #0c3152;
+}
+
+hr {
+	border-top: 1px solid #0c3152;
+}
+
+.navbar {
+    background-color: #0c3152;
+    border-bottom-color: #0c3152;
+    border-top-color: #0c3152;
+    border-left-color: #0c3152;
+    border-right-color: #0c3152;
+    color: #e5e5e5;
+}
+
+.jumbotron {
+	background-image: url(images/stripes.png);
+	background-size: cover;
+	text-align: center;
+	color: #0c3152;
+	border: 2px solid #0c3152;
+}
+
+#customCalCarousel {
+	border: 2px solid #0c3152;
+}
+
+legend {
+	color: #0c3152;
+}
+
+article {
+	text-align: center;
+}
+
+.event-icon {
+	width: 100px;
+	height: 100px;
+
+}
+
+.fc-title {
+	display: none;
+}
+
